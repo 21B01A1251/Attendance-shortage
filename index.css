@@ -1,0 +1,68 @@
+
+.rona{
+    text-align: center;
+    letter-spacing: 1px;
+    font-display: 50%;
+    padding-left: 300px;
+    display: flex;
+}
+p{
+    padding-left: 340px;
+    font-size: 20px;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+}
+h4{
+    text-align: right;
+}
+h6{
+    
+    margin-left:20%;
+    font-size: 20px;
+}
+table{
+    border-collapse: collapse;
+}
+table tr td{
+    
+    border:1px solid black;
+    border-collapse: collapse;
+    
+}
+
+.yo{
+    padding-right:200px;
+    width:300px;
+    height:25px;
+}
+.ee{
+    padding-left:150px;
+    width:250px;
+    height:5px;
+
+}
+.one{
+    padding-right:100px;
+}
+.two{
+    padding-right:70px;
+}
+span{
+    display:flex;
+    font-size: 20px;
+}
+.prev{
+    font-size: 23px;
+}
+.next{
+    font-size: 15px;
+    padding-left:330px;
+}
+.new{
+    padding-left: 600px;
+}
+
+	
